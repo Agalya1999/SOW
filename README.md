@@ -1,31 +1,29 @@
-# **SOW: Plant Disease Identification Using App.**
+# **Project Scope: Plant Disease Identification App**
 
-
-- Plant diseases can be detect by leveraging the power of Deep Learning.
+- Detecting plant diseases through Deep Learning is a pivotal aspect of this project.
 
 ![alt text](https://github.com/Agalya1999/SOW/blob/main/Images-src/Poster.png)
+  
+This repository explores the implementation of Deep Learning models for the identification and classification of plant diseases. The aim is to provide farmers with a tool that not only identifies diseases but also offers guidance through videos and immediate remedies to mitigate crop loss.
 
-This repo is about how we can use the Deep Learning Models to detect and classify the diseases of plants and guide the farmers through videos and give instant remedies to overcome the loss of plants and fields.
-
-## 1. The Cause And Introduction.
-In a past days and present, farmers are usually detecting the crop diseases with their naked eye which makes them to take tough decisions on which fertilisers to use. it’s requires detailed knowledge the types of diseases and lot of experience needed to make sure the actual disease detection. **Some of the disease looks almost similar to farmers often leaves them into confusion state. Look below Image for more understanding.**
+## 1. Background and Introduction
+Historically, farmers have relied on visual inspection to detect crop diseases, often leading to difficult decisions regarding fertilization. This method demands extensive knowledge of various diseases and considerable experience for accurate detection. Compounding the issue, many diseases share visual similarities, causing confusion among farmers. Refer to the image below for a clearer illustration.
 
 ![alt_text](https://github.com/Agalya1999/SOW/blob/main/Images-src/SimilarDiseases.png)
 
-## 2.So,How to prevent this from happening ?
-To prevent this situation we need a better and perfect guidance on which fertilisers to use and to make correct identification of diseases and ability to distinguish between two or more similar type of diseases in visuals.
-This is where Artificial Neural Networks comes handy in short ANN. **Using Convolutional Neural Network this get done.**
+## 2. Prevention Strategies
+To address these challenges, a robust guidance system is necessary. This system should facilitate accurate disease identification and enable differentiation between visually similar diseases. Artificial Neural Networks (ANNs), particularly Convolutional Neural Networks (CNNs), offer a solution to this problem.
 
+![alt_text](https://github.com/Agalya1999/SOW/blob/main/Images-src/Simple-VS-DeepLearning.jpeg)
 
-## 3.Convolutional Neural Network.
+## 3. Convolutional Neural Networks
+CNNs, renowned for their effectiveness in image and video recognition, as well as in applications like recommender systems and Natural Language Processing (NLP), are well-suited for this task. Their efficiency stems from parameter reduction, distinguishing them from other deep learning models.
 
-There you go Convolutional Neural Network (CNN or Conv Nets). it is well known for its widely used in applications of image and video recognition and also in recommender systems and Natural Language Processing(NLP). However, convolutional is more efficient because it reduces the number of parameters which makes different from other deep learning models.
+![alt_text](https://github.com/Agalya1999/SOW/blob/main/Images-src/CNN.png)
 
+## 4. Accuracy and Evaluation
+![alt_text](https://github.com/Agalya1999/SOW/blob/main/Images-src/ResultCrop.jpeg)
+## 5. Deployment Using Flutter
+![alt_text](https://github.com/Agalya1999/SOW/blob/main/Images-src/App%20Features.png)
 
-
-## 4. Accuracy and Evaluation.
-
-## 5.Deployment Using Flutter .
-
-
-Happy Learning.
+Wishing you fruitful learning endeavors.
