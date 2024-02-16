@@ -1,5 +1,7 @@
 # **SOW: Plant Disease Identification Using App.**
 
+Images-src/Poster.png
+
 - Plant diseases can be detect by leveraging the power of Deep Learning.
 
 This repo is about how we can use the Deep Learning Models to detect and classify the diseases of plants and guide the farmers through videos and give instant remedies to overcome the loss of plants and fields.
