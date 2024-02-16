@@ -10,6 +10,7 @@ This repo is about how we can use the Deep Learning Models to detect and classif
 ## 1. The Cause And Introduction.
 In a past days and present, farmers are usually detecting the crop diseases with their naked eye which makes them to take tough decisions on which fertilisers to use. it’s requires detailed knowledge the types of diseases and lot of experience needed to make sure the actual disease detection. **Some of the disease looks almost similar to farmers often leaves them into confusion state. Look below Image for more understanding.**
 
+![alt_text](https://github.com/Agalya1999/SOW/blob/main/Images-src/SimilarDiseases.png)
 
 ## 2.So,How to prevent this from happening ?
 To prevent this situation we need a better and perfect guidance on which fertilisers to use and to make correct identification of diseases and ability to distinguish between two or more similar type of diseases in visuals.
